@@ -1,0 +1,46 @@
+* {
+    background-color: GhostWhite;
+}
+
+.container {
+    width: 1200px;
+    height: 60vh;
+    border: 3px solid black;
+    display: flex;
+}
+
+.box-1 {
+    width: 200px;
+    height: 50px;
+    background-color: brown;
+}
+
+.box-2 {
+    width: 200px;
+    height: 100px;
+    background-color: cadetblue;
+}
+
+.box-3 {
+    width: 200px;
+    height: 150px;
+    background-color: chartreuse;
+}
+
+.box-4 {
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+}
+
+.box-5 {
+    width: 200px;
+    height: 250px;
+    background-color: crimson;
+}
+
+.box-6 {
+    width: 200px;
+    height: 300px;
+    background-color: cyan;
+}
